@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "Facebook-Newsfeed-Eraser",
+    "version": "1.0",
+  
+    "description": "Erase facebook newsfeed content",
+  
+    "icons": {
+      "48": "icons/border-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.mozilla.org/*"],
+        "js": ["borderify.js"]
+      }
+    ]
+  
+  }
