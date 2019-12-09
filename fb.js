@@ -1,0 +1,1 @@
+document.getElementById('contentCol').style.display = 'none';
