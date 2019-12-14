@@ -2,9 +2,9 @@
 A simple firefox browser add-on for removing newsfeed contents. 
 ## Features
 - Clean your newsfeed
-- Remove unnecessary group recommendation
+- Remove all group recommendation
 - Remove recent photos section from groups (Yeah! These can be weird too)
-- Remove friend suggestion section
+- Remove friend request section
 
 ## Installation
 - Download this repo
