@@ -1,4 +1,4 @@
-# Facebook-Newsfeed-Eraser-Firefox
+# Facebook-Newsfeed-Eraser-Firefox ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 A simple firefox browser add-on for removing newsfeed contents. 
 ## Features
 - Clean your newsfeed
