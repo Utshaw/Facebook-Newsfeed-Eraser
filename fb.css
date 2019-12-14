@@ -1,0 +1,10 @@
+/* #rightCol {
+    display: none;
+} */
+/* #stories_pagelet_below_composer {
+    display: none;
+} */
+
+#stream_pagelet , #rhc_col, #pagelet_ego_pane {
+    display: none;
+}

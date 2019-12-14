@@ -10,12 +10,37 @@
       "48": "icons/icon.svg",
       "96": "icons/icon.svg"
     },
-  
-    "content_scripts": [
-      {
-        "matches": ["*://facebook.com/*"],
-        "js": ["fb.js"]
-      }
+      "content_scripts": [
+        {
+            "matches": [
+                "http://www.facebook.com/*",
+                "https://www.facebook.com/*",
+                "http://web.facebook.com/*",
+                "https://web.facebook.com/*"
+            ],
+            "js": [
+                "fb.js"
+            ],
+            "css": [
+                "fb.css"
+            ],
+            "run_at": "document_start"
+        },
+        {
+            "matches": [
+                "http://www.facebook.com/*",
+                "https://www.facebook.com/*",
+                "http://web.facebook.com/*",
+                "https://web.facebook.com/*"
+            ],
+            "js": [
+                "fb.js"
+            ],
+            "css": [
+                "fb.css"
+            ],
+            "run_at": "document_idle"
+        }
     ]
   
   }
