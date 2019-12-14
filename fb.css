@@ -5,6 +5,16 @@
     display: none;
 } */
 
+
+
+/* homepage all newsfeed contents, right section , friend request section */
 #stream_pagelet , #rhc_col, #pagelet_ego_pane {
     display: none;
 }
+
+
+/* NOT WORKING chat sidebar profile image  */ 
+/* div._1gyw _55lt {
+    display: none;
+} */
+
