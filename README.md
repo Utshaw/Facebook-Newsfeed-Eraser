@@ -6,6 +6,12 @@ A simple firefox browser add-on for removing newsfeed contents.
 - Remove recent photos section from groups (Yeah! These can be weird too)
 - Remove friend suggestion section
 
+## Installation
+- Download this repo
+- Goto `about:debugging`
+- Click on `Load Temporary Add-on...`
+- Enter inside the repo and select a file
+
 ## Resources used
 - [Your first extension - Mozilla dev site](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
 - [icons](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/icons)
