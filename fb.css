@@ -8,9 +8,11 @@
 
 
 /* homepage all newsfeed contents, right section , friend request section */
-#stream_pagelet , #rhc_col, #pagelet_ego_pane {
+._3sda , #u_0_t, #stream_pagelet , #rhc_col, #pagelet_ego_pane {
     display: none;
 }
+
+
 
 
 /* // I've tried to remove images from chat side bar but failed. code below
